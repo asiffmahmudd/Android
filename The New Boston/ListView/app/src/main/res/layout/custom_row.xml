@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/buckysImage"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_margin="10dp"
+        android:layout_weight="1"
+        app:srcCompat="@drawable/download" />
+
+    <TextView
+        android:id="@+id/buckysText"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_margin="10dp"
+        android:layout_weight="1"
+        android:text="TextView"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1" />
+
+</LinearLayout>

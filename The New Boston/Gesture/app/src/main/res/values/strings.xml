@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gesture</string>
+    <string name="buckysText">Hello</string>
+    <string name="buttonText">Click Me</string>
+</resources>
