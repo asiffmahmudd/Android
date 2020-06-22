@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Asif Mahmud\\Desktop\\CourseEra Android\\PA2\\m4-assignment-diamond-sizes-skeleton\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Asif Mahmud\\.gradle\\caches\\transforms-2\\files-2.1\\5edd93370543ada41361a4867e7a20fb\\appcompat-1.1.0-alpha01\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        }
+    ]
+}
