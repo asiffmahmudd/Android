@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Overflow Menu</string>
+    <string name="strRed">Red</string>
+    <string name="strGreen">Green</string>
+    <string name="strYellow">Yellow</string>
+    <string name="tvInstructions">TextView</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
