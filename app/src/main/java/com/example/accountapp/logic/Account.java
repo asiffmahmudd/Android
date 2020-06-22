@@ -20,7 +20,7 @@ public class Account {
     final OutputInterface mOut;
 
     /**
-     * Name of the account holder.
+     * Name of the account holder
      */
     String name;
 
