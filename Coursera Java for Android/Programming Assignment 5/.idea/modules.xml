@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PA5.iml" filepath="$PROJECT_DIR$/PA5.iml" group="PA5" />
+      <module fileurl="file://$PROJECT_DIR$/app/PA5-app.iml" filepath="$PROJECT_DIR$/app/PA5-app.iml" group="PA5/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m6-assignment-gate-b-complete.iml" filepath="$PROJECT_DIR$/m6-assignment-gate-b-complete.iml" />
+    </modules>
+  </component>
+</project>
